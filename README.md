@@ -1,4 +1,4 @@
-### Hola,  😁😉
+Hola,  😁😉
 soy Jovanni, Licenciado en ciencias de la computación.
 
 - 🔭 Actualmente estoy desarrollando un pequeño proyecto de la empresa de Seguros Nacionales.
