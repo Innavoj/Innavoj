@@ -1,1 +1,0 @@
-Proyecto vuejs de prueba. 
