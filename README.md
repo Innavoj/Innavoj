@@ -1,10 +1,12 @@
 Hola,  😁😉
-soy Jovanni 🇨🇺 Licenciado en ciencias de la computación.🖥️
+soy Jovanni Segura 🇨🇺 Licenciado en ciencias de la computación.🖥️ Especialista en IT de centros de datos.
 
-- 🔭 Actualmente estoy desarrollando un pequeño proyecto de la empresa de Seguros Nacionales.
-- 🌱 Estudio los cursos de HTML5 CSS Javascript Vuejs bootstrap5.💯 para el desarrollo web frontend.💪
-- Experiencia en bases de datos Oracle MySQL postgresql Sqlite. 💪
+- 🌱 Actualmente estudio los cursos de HTML5 CSS Javascript Vuejs bootstrap5.💯 para el desarrollo web frontend.💪
+-  🔭 Hace 6 meses atras me he dedicado a estudiar el desarrollo web frontend y hacerme fuerte en este campo.
+
+Tecnologias con experiencias:
+
+- bases de datos Oracle, MySQL postgresql Sqlite. 💪
 - Sistemas operativo Windows, Linux.
-- Administración de infraestructura tecnologicas de centro de datos con servidores profesionales.💯
-- Administración en redes de datos con tecnología Huawei network Datacom.🌎
-- Sistemas virtualizados con Vmware Sheper 5.1 Veeam Backup.
+- Tecnologias de redes de datos Huawei network Datacom.🌎
+- Vmware Sheper 5.1 Veeam Backup.
