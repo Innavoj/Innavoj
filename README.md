@@ -1,7 +1,7 @@
 # Hola,  😁😉 soy Jovanni Segura 🇨🇺 Licenciado en ciencias de la computación.
 🖥️ Especialista en IT de centros de datos. Hace 1 año atrás me he dedicado a estudiar el desarrollo web frontend y hacerme fuerte en este campo. 💪
 
-- 🌱 Actualmente me dedico al desarrollo web, siempre buscando oportunidades para desarrollarme profesionalmente 💯
+- 🌱 Actualmente me dedico al desarrollo web frontend Vue3, siempre buscando oportunidades para desarrollarme profesionalmente 💯
 
 Tecnologias con experiencias:
 
