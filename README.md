@@ -5,7 +5,7 @@
 
 Tecnologias con experiencias:
 
-- HTML5 - CSS3 - Javascript - Vuejs - vuetify - Quasar - bootstrap5 - Nodejs - json - Express - API Rest - git github.💪💯
+- HTML5 - CSS3 - Javascript - Vuejs - Pinia - Vite - vuetify - Quasar - bootstrap5 - Nodejs - json - Express - API Rest - git github.💪💯
 - Bases de datos Oracle, MySQL postgresql Sqlite. 💪
 - Sistemas operativo Windows, Linux.
 - Tecnologias de redes de datos Huawei network Datacom.🌎
