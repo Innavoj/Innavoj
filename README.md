@@ -1,8 +1,7 @@
 # Hola,  😁😉 soy Jovanni Segura 🇨🇺 Licenciado en ciencias de la computación.
 🖥️ Ingeniero de sistemas con +25 años de experiencia. Apasionado del Desarrollo web. Profesional de las TI, he cultivado un gran interés en el desarrollo web frontend, lo cual he evolucionado en las últimas tecnologías novedosas, permitiéndome desarrollar interfaces de usuarios atractivas y responsivas usando Vuejs, pinia, vite, bootstrap5, Vuetify, Quasar, nodejs, git, github.  Siempre buscando oportunidades para desarrollarme profesionalmente.
 
-- 🌱 Actualmente me dedico al desarrollo frontend Vue3, 💪💯
-- 😉 Estudiar los FrameWork React, Next 💪💯
+- 😉 Actualmente estudio los FrameWork React, Next 💪💯
 
 Tecnologias con experiencias:
 
