@@ -8,10 +8,9 @@ Tecnologias con experiencias:
 - HTML5 - CSS3 - Javascript
 - Vuejs - React - Vite
 - Pinia - Redux 
-- vuetify UI - Quasar UI
-- Material UI
+- vuetify UI - Quasar UI - Material UI
 - bootstrap5 - taiwindcss 
-- Nodejs - Json - API Rest.💪
+- Nodejs - Express - API Rest.💪
 - Bases de datos Oracle 💪 💯
 - MySQL, postgresql, Sqlite3. 💪
 - Sistemas operativo Windows, Linux.
