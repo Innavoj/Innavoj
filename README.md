@@ -12,7 +12,7 @@ Tecnologias con experiencias:
 - bootstrap5 - taiwindcss 
 - Nodejs - Express - API Rest.💪
 - Bases de datos Oracle 💪 💯
-- MySQL, postgresql, Sqlite3. 💪
+- MySQL, PostgreSQL, SQLite3. 💪
 - Sistemas operativo Windows, Linux.
 - Tecnologias de redes de datos Huawei network Datacom.🌎
 - Vmware Sheper 5.1 Veeam Backup.
