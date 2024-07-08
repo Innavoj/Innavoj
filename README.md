@@ -1,5 +1,5 @@
 # Hola,  😁😉 soy Jovanni Segura 🇨🇺 Licenciado en ciencias de la computación.
-🖥️ Ingeniero de sistemas con +25 años de experiencia. Apasionado del Desarrollo web. Profesional de las TI, he cultivado un gran interés en el desarrollo web, lo cual he evolucionado con las últimas tecnologías novedosas, permitiéndome desarrollar interfaces de usuarios atractivas y responsivas. Siempre buscando oportunidades para desarrollarme profesionalmente.
+con +25 años de experiencia, especializado en brindar soluciones integrales y atención al cliente. Mis habilidades estratégicas incluyen liderazgo, comunicación, servicio al cliente, atención al detalle y capacidad de trabajo en equipo, lo cual me han permitido desarrollar una amplia experiencia en Infraestructura Tecnológica y Desarrollo Web. Estoy interesado en aplicar mis habilidades en la industria de la tecnología y contribuir con el crecimiento de su empresa.
 
 - 😉 Actualmente estudio los FrameWork React, Next 💪💯
 
