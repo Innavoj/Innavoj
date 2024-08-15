@@ -16,6 +16,6 @@ Tecnologias con experiencias:
 - Sistemas operativo Windows, Linux.
 - Tecnologias de redes de datos Huawei network Datacom.🌎
 - Vmware Sheper 5.1 Veeam Backup.
-- Contenedores Docker.
+- Contenedores Docker. Kubernetes.
 - Experiencia despliegue en Digital Ocean, Vercel.
 
