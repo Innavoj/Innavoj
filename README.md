@@ -1,4 +1,4 @@
-# A Full Stack Developer, Javascript, React, Nodejs Express, Tailwindcss, Material UI, Bootstrap, Oracle, MySQL, PostgreSQL, Github Copilot, Google AI Studio
+# A Full Stack Developer, Javascript, React, Nodejs Express, Tailwindcss, Material UI, Bootstrap, Oracle, MySQL, PostgreSQL, Github Copilot, Google IA Studio
 
 Technologies with experience:
 
