@@ -15,4 +15,4 @@ Technologies with experience:
 - VMware Sheper 5.1 and Veeam Backup.
 - Docker containers. Kubernetes.
 - Deployment experience on Digital Ocean, Vercel, AWS, and GCP.
-- AI tools: Google AI Studio.
+- IA tools: Google IA Studio.
