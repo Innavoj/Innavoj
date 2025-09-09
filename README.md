@@ -1,9 +1,9 @@
-# PERN Stack + DevOps Engineer. Javascript . Typescript . React.js . Express. Node.js . Docker . GitLab . Github. DCOS Mesos . Marathon
+# PERN Stack + DevOps Engineer
 
 Technologies with experience:
 
-- HTML5 - CSS3 - Javascript, SQL
-- Vuejs - React - Vite
+- Javascript, Typescript, SQL
+- Vuejs - React - Vite - HTML - CCS3
 - Pinia - Redux
 - Vuetify UI - Material UI
 - Bootstrap5 - TailwindCSS
