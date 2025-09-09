@@ -1,8 +1,8 @@
-# A Full Stack Developer, Javascript, React, Nodejs Express, Tailwindcss, Material UI, Bootstrap, Oracle, MySQL, PostgreSQL, Github Copilot, Google IA Studio
+# PERN Stack + DevOps Engineer. Javascript . Typescript . React.js . Express. Node.js . Docker . GitLab . Github. DCOS Mesos . Marathon
 
 Technologies with experience:
 
-- HTML5 - CSS3 - Javascript
+- HTML5 - CSS3 - Javascript, SQL
 - Vuejs - React - Vite
 - Pinia - Redux
 - Vuetify UI - Material UI
@@ -13,6 +13,6 @@ Technologies with experience:
 - Windows and Linux operating systems.
 - Cisco and Huawei network Datacom data network technologies. 🌎
 - VMware Sheper 5.1 and Veeam Backup.
-- Docker containers. Kubernetes.
+- Docker containers. Kubernetes, GitLab, DCOS-Mesos, Marathon, CircleCI, 
 - Deployment experience on Digital Ocean, Vercel, AWS, and GCP.
 - IA tools: Google IA Studio, Gemini 2.5 Pro
