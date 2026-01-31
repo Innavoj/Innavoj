@@ -1,4 +1,5 @@
-# PERN Stack + DevOps Engineer
+#Administrador de sistemas sénior y DBA. 
+#Líder en la Transformación Digital, Automatización y Optimización de Recursos. Garantizando Alta Disponibilidad. 99% de tiempo de actividad
 
 Technologies with experience:
 
@@ -8,11 +9,11 @@ Technologies with experience:
 - Vuetify UI - Material UI
 - Bootstrap5 - TailwindCSS
 - Nodejs - Express - Rest API. 💪
-- Oracle databases 💪 💯
-- MySQL, PostgreSQL, SQLite3 databases. 💪
+- Oracle Databases 💪 💯
+- MySQL, PostgreSQL databases. 💪
 - Windows and Linux operating systems.
 - Cisco and Huawei network Datacom data network technologies. 🌎
 - VMware Sheper 5.1 and Veeam Backup.
-- Docker containers. Kubernetes, GitLab, DCOS-Mesos, Marathon, CircleCI, 
+- Docker containers. Kubernetes, GitLabCI, DCOS-Mesos, Marathon. 
 - Deployment experience on Digital Ocean, Vercel, AWS, and GCP.
-- IA tools: Google IA Studio, Gemini 2.5 Pro
+- IA Development: Google IA Studio, Gemini Pro, FireBase Studio, N8N, Ollama, NoteBooKLM, Vibe Coding
