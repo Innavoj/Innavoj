@@ -1,4 +1,4 @@
-# Senion SysAdmin & DBA. 
+# Senior SysAdmin & DBA. 
 Líder en la Transformación Digital, Automatización y Optimización de Recursos. Garantizando Alta Disponibilidad. 99% de tiempo de actividad
 
 Technologies with experience:
