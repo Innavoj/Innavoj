@@ -1,5 +1,5 @@
-# Senior SysAdmin & DBA. 
-Líder en la Transformación Digital, Automatización y Optimización de Recursos. Garantizando Alta Disponibilidad. 99% de tiempo de actividad
+# Web Developer Fullstack 
+Líder en la Transformación Digital.
 
 Technologies with experience:
 
