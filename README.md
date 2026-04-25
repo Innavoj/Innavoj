@@ -1,6 +1,7 @@
 # SysAdmin & DBA |  IA Automations  Solutions | Cloud | DevOps Architect
 
 Professional Profile
+
 Systems engineer with over 25 years of experience focused on building reliable, automated, and people-centric infrastructure. My approach combines robust database management with modern DevOps practices, always seeking to reduce technical complexity so that development teams can focus on creating value. I enjoy collaborating in autonomous teams where trust, transparency, and shared knowledge are the foundation for building resilient systems. My goal is to contribute to an engineering culture where infrastructure is treated as code and continuous improvement is in avanced.
 
 I am a Systems Administrator and DBA Specialist with over 25 years of experience. I have been responsible for the digital transformation of critical technology environments. 
