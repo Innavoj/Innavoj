@@ -1,8 +1,8 @@
-# SysAdmin & DBA |  IA Automations  Solutions | Cloud | DevOps Architect
+# Senior DevOps & DBA |  IA Automations  Solutions | Kubernetes | Cloud Architect
 
 ## Professional Profile
 
-Senior Systems Administrator & DBA Specialist with 25+ years of experience leading digital transformation of mission-critical environments.
+Senior DevOps  & DBA Specialist with 25+ years of experience leading digital transformation of mission-critical environments.
 As a DevOps engineer, I design CI/CD pipelines using GitLab CI, SonarQube, and Nexus to automate deployment workflows. I virtualize infrastructure with VMware, Proxmox, and Docker, and orchestrate containers in Kubernetes — including migrating critical services from DCOS/Mesos to Kubernetes and integrating microservices such as Kafka, Elasticsearch, NiFi, and Graph.
 On the database side, I architect high-availability solutions using Oracle DataGuard, Oracle GoldenGate, and RMAN, achieving 99% availability while reducing operational costs. I have migrated large volumes of data (Oracle to MongoDB), ensuring integrity and consistency.
 Additional experience: Full-stack development (MERN/PERN stack) building MVPs and SaaS on AWS, GCP, Render, Vercel, and TiDBCloud.
