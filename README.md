@@ -1,4 +1,4 @@
-# Senior DevOps & DBA |  IA Automations  Solutions | Kubernetes | Cloud Architect
+# Senior DevOps | kubernetes | IA Automations  Solutions | Cloud Architect | DBA 
 
 ## Professional Profile
 
@@ -29,4 +29,4 @@ Additional experience: Full-stack development (MERN/PERN stack) building MVPs an
 
 * Development & APIs: Understanding of REST APIs, Microservices, MERN/PERN stack, Keycloak, and JWT to facilitate collaboration with development teams.
 
-* AI Development: Hands-on experience with AI tools (GitHub Copilot, Google AI Studio, Ollama, N8N) to explore how they can optimize workflows.
+* AI Development: Hands-on experience with AI tools (Open code, GitHub Copilot, Google AI Studio, Ollama, N8N) to explore how they can optimize workflows.
