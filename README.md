@@ -2,9 +2,8 @@
 
 ## Professional Profile
 
-Senior DevOps  & DBA Specialist with 25+ years of experience leading digital transformation of mission-critical environments.
-As a DevOps engineer, I design CI/CD pipelines using GitLab CI, Build, Test, SonarQube, and Nexus to automate deployment workflows. I virtualize infrastructure with VMware, Proxmox, and Docker, and orchestrate containers in Kubernetes — including migrating critical services from DCOS/Mesos to Kubernetes and integrating microservices such as Kafka, Elasticsearch, NiFi, and Graph.
-On the database side, I architect high-availability solutions using Oracle DataGuard, Oracle GoldenGate, and RMAN, achieving 99% availability while reducing operational costs. I have migrated large volumes of data (Oracle to MongoDB), ensuring integrity and consistency.
+Senior DevOps Engineer with 25+ years of experience architecting and operating mission-critical infrastructure for government and enterprise environments. Specialized in high-availability database systems (Oracle, PostgreSQL, MongoDB), Kubernetes orchestration, and CI/CD automation at scale. Proven track record of reducing operational costs by 50%, achieving 99% uptime, and leading zero-data-loss migrations involving thousands of records. Passionate about Infrastructure as Code (IaC), observability-driven development, and Site Reliability Engineering (SRE) principles. Seeking to lead DevOps transformation initiatives in cloud-native and hybrid environments
+
 Additional experience: Full-stack development (MERN/PERN stack) building MVPs and SaaS on AWS, GCP, Render, Vercel, and TiDBCloud.
 
 ### Key Achievements
