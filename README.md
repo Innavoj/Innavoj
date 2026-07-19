@@ -13,3 +13,11 @@ Senior DevOps Engineer with 25+ years of experience architecting and operating m
 * Networking & Security: TCP/IP, DNS, Load Balancing, Firewall, OSPF, BGP, Keycloak, JWT.
 * Development & Scripting: JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, REST APIs, Microservices.
 * AI & Automation: Opencode, OpenAI, GitHub Copilot, Google AI Studio, Ollama, N8N workflows.
+
+## KEY PROJECTS
+
+* DCOS → Kubernetes Migration: Migrated a legacy DCOS/Mesos platform to a production-grade Kubernetes cluster with stateful workloads (Kafka, Elasticsearch, MongoDB, PostgreSQL).	95% availability, 50% reduction in infrastructure costs, zero downtime during cutover.
+* Oracle High-Availability Architecture: Designed and deployed a multi-datacenter Oracle solution with DataGuard, GoldenGate, and automatic failover.	99% uptime, automated recovery under 2 minutes, SLA compliance for 5+ years.
+* Oracle → MongoDB Enterprise Migration: Planned and executed a full data migration from Oracle to MongoDB for a critical government system. Zero data loss, full referential integrity, 40% faster query performance.
+* CI/CD Pipeline Implementation: Built GitLab CI pipelines with integrated SonarQube quality gates and Nexus artifact management. 80% reduction in manual deployment errors, 50+ manual tasks eliminated.
+* Infrastructure Virtualization & Automation: Migrated 100+ physical servers to VMware/Proxmox with Ansible-driven provisioning. 50% cost reduction, 35 new services deployed, infrastructure provisioning time reduced from weeks to hours.
